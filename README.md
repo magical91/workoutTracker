@@ -16,5 +16,5 @@ The purpose of this is app is to track your daily workouts.  The user is able to
 * JWT
 
 ## Screenshots
-![Register](assets\registerPage.jpg)
-![EditWorkout](assets\workoutPage.jpg)
+![Register](https://github.com/magical91/workoutTracker/blob/main/assets/registerPage.jpg?raw=true)
+![EditWorkout](https://github.com/magical91/workoutTracker/blob/main/assets/workoutPage.jpg?raw=true)
